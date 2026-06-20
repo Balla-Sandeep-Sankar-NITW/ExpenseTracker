@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# Vite
+.vite/
+
+# Next.js
+.next/
+out/
+
+# React environment variables
+frontend/.env
+
+
+# npm/yarn/pnpm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage
+coverage/
+
+# =========================
+# General
+# =========================
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Secrets
+*.pem
+*.key
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
