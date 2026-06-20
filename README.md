@@ -198,8 +198,9 @@ running, generated straight from the FastAPI route definitions.
 
 ## 🖥️ Screenshots
 
-<img width="2289" height="1515" alt="image" src="https://github.com/user-attachments/assets/d5143e0c-44a1-4126-b710-1d5843883bec" />
-<img width="2159" height="1753" alt="image" src="https://github.com/user-attachments/assets/6c00c794-fd04-4a00-8423-9c0405f20c6b" />
+<img width="2097" height="1447" alt="image" src="https://github.com/user-attachments/assets/29521fca-ef85-463f-a78b-fc3da71d9563" />
+<img width="2089" height="1752" alt="image" src="https://github.com/user-attachments/assets/6c66d74b-92ba-4328-9c9a-8c359c9aef88" />
+
 
 
 ```md
